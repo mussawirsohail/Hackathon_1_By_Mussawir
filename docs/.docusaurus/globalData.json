@@ -1,0 +1,174 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "getting-started",
+              "path": "/docs/getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-the-robotic-nervous-system/intro",
+              "path": "/docs/module-1-the-robotic-nervous-system/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-the-robotic-nervous-system/lesson-1-introduction-to-ros2",
+              "path": "/docs/module-1-the-robotic-nervous-system/lesson-1-introduction-to-ros2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-the-robotic-nervous-system/lesson-2-nodes-topics-services",
+              "path": "/docs/module-1-the-robotic-nervous-system/lesson-2-nodes-topics-services",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-the-robotic-nervous-system/lesson-3-bridging-python-agents",
+              "path": "/docs/module-1-the-robotic-nervous-system/lesson-3-bridging-python-agents",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-the-robotic-nervous-system/lesson-4-understanding-urdf",
+              "path": "/docs/module-1-the-robotic-nervous-system/lesson-4-understanding-urdf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-the-digital-twin/intro",
+              "path": "/docs/module-2-the-digital-twin/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-the-digital-twin/lesson-1-introduction-to-gazebo",
+              "path": "/docs/module-2-the-digital-twin/lesson-1-introduction-to-gazebo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-the-digital-twin/lesson-2-physics-simulation",
+              "path": "/docs/module-2-the-digital-twin/lesson-2-physics-simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-the-digital-twin/lesson-3-high-fidelity-rendering",
+              "path": "/docs/module-2-the-digital-twin/lesson-3-high-fidelity-rendering",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-the-digital-twin/lesson-4-sensor-simulation",
+              "path": "/docs/module-2-the-digital-twin/lesson-4-sensor-simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-the-ai-robot-brain/intro",
+              "path": "/docs/module-3-the-ai-robot-brain/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-the-ai-robot-brain/lesson-1-introduction-to-nvidia-isaac",
+              "path": "/docs/module-3-the-ai-robot-brain/lesson-1-introduction-to-nvidia-isaac",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-the-ai-robot-brain/lesson-2-photorealistic-simulation",
+              "path": "/docs/module-3-the-ai-robot-brain/lesson-2-photorealistic-simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-the-ai-robot-brain/lesson-3-hardware-accelerated-vslam",
+              "path": "/docs/module-3-the-ai-robot-brain/lesson-3-hardware-accelerated-vslam",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-the-ai-robot-brain/lesson-4-path-planning-for-bipedal-movement",
+              "path": "/docs/module-3-the-ai-robot-brain/lesson-4-path-planning-for-bipedal-movement",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vision-language-action/capstone_implementation",
+              "path": "/docs/module-4-vision-language-action/capstone_implementation"
+            },
+            {
+              "id": "module-4-vision-language-action/intro",
+              "path": "/docs/module-4-vision-language-action/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vision-language-action/lesson-1-introduction-to-vla",
+              "path": "/docs/module-4-vision-language-action/lesson-1-introduction-to-vla",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vision-language-action/lesson-2-voice-to-action-whisper",
+              "path": "/docs/module-4-vision-language-action/lesson-2-voice-to-action-whisper",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vision-language-action/lesson-3-cognitive-planning-llms",
+              "path": "/docs/module-4-vision-language-action/lesson-3-cognitive-planning-llms",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vision-language-action/lesson-4-capstone-project",
+              "path": "/docs/module-4-vision-language-action/lesson-4-capstone-project",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "path": "/docs/tutorial-basics/congratulations"
+            },
+            {
+              "id": "tutorial-basics/create-a-blog-post",
+              "path": "/docs/tutorial-basics/create-a-blog-post"
+            },
+            {
+              "id": "tutorial-basics/create-a-document",
+              "path": "/docs/tutorial-basics/create-a-document"
+            },
+            {
+              "id": "tutorial-basics/create-a-page",
+              "path": "/docs/tutorial-basics/create-a-page"
+            },
+            {
+              "id": "tutorial-basics/deploy-your-site",
+              "path": "/docs/tutorial-basics/deploy-your-site"
+            },
+            {
+              "id": "tutorial-basics/markdown-features",
+              "path": "/docs/tutorial-basics/markdown-features"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/docs/tutorial-extras/manage-docs-versions"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/docs/tutorial-extras/translate-your-site"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
